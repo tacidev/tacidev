@@ -1,15 +1,23 @@
 <br>
 <br>
 <h1 align=center>Hi 👋, I'm Taciana</h1>
-<img align="right" alt"Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
- </p>
 
+
+
+
+
+<!--https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif-->
 
 
 <p align=center>🌱 Principiante em Front-end</p>
 <br> 
 <br>
 <br>
+
+<p>
+ <img align="right" alt"Coding" width="250" src="https://c.tenor.com/AlUkiGkR2j8AAAAd/tenor.gif">
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
