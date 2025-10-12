@@ -1,8 +1,8 @@
-![dev_feminina](https://camo.githubusercontent.com/484cd46408226494fbc73c25fbebcff2b6e5e5550452e75ae2ac3b43867e9fd3/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3135393964373130373031393732352e356639643363376261653633362e676966)
-
 <br>
 <br>
 <h1 align=center>Hi 👋, I'm Taciana</h1>
+<img align="right" alt"Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+ </p>
 
 
 
@@ -29,17 +29,10 @@
 ----------
 
 <p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tacidev&show_icons=true&theme=swift" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tacidev&layout=donut&langs_count=8&card_width=320&theme=swift" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tacidev&layout=compact&langs_count=8&card_width=320&theme=swift" />
 </a>
 </p>
-
-
-
-
-
 
 
