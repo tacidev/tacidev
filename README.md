@@ -1,6 +1,6 @@
 <br>
 <br>
-<h1 align=center>Hi 👋, I'm Taciana</h1>
+<h1 align=center>Hi 👋, I'm Taciana Frioli</h1>
 
 
 
